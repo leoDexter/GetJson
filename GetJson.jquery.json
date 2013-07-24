@@ -3,8 +3,10 @@
     "title": "jQuery GetJson",
     "description": "A JQuery plugin to convert form fields in a JSON object.",
     "keywords": [
-        "json",
-        "getjson"
+         "json",
+        "getjson",
+    	"createjson",
+		"htmlToJson"
     ],
     "version": "1.0.0",
     "author": {
