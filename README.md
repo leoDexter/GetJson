@@ -1,6 +1,9 @@
 GetJson
 =======
 
+Started by: Leonardo dos Santos Fernandes, Petrópolis RJ, Brazil
+E-Mail:  lfernandes770@gmail.com
+
 A JQuery plugin to convert form fields in a JSON object
 
 The html fields properties must be defined like an hierarchy
